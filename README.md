@@ -40,3 +40,9 @@ There are several risk factors for developing heart disease which might include:
 -**Obesity**:Excess weight typically worsens other risk factors.•Physical  inactivity:Lack  of  exercise  also  is  associated  with  many  forms  of heart disease and some of its other risk factors, as well.
       
 -**Stress**:Unrelieved  stress  may  damage  your  arteries  and  worsen  other  risk factors for heart disease.
+
+
+# Prevention of Heart Disease
+
+![image](https://user-images.githubusercontent.com/76509789/156913960-dbdf2e1d-690c-437d-be16-5764419f34ff.png)
+
