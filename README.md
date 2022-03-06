@@ -9,15 +9,15 @@ Heart Disease Diagnosis & PreventionHeart disease describes a range of condition
 
 Heart Disease SymptomsHeart disease symptoms depend on what type of heart disease you have.
 
-       -**Atherosclerotic Disease**:The  symptoms  appear  in  your  blood  vessels.Cardiovascular disease symptoms may be different for men and women. For instance,  men  are  more  likely  to  have  chest  pain;  women  are  more  likely  to have other symptoms along with chest discomfort, such as shortness of breath, nausea and extreme fatigue.
+-**Atherosclerotic Disease**:The  symptoms  appear  in  your  blood  vessels.Cardiovascular disease symptoms may be different for men and women. For instance,  men  are  more  likely  to  have  chest  pain;  women  are  more  likely  to have other symptoms along with chest discomfort, such as shortness of breath, nausea and extreme fatigue.
        
-       -**Heart Arrhythmias**:The symptoms appear with cause of abnormal heartbeats. Your heart may beat too quickly, too slowly or irregularly.
+-**Heart Arrhythmias**:The symptoms appear with cause of abnormal heartbeats. Your heart may beat too quickly, too slowly or irregularly.
        
-       -**Heart Defects:The defects appear while birth. Less serious congenital heart defects are often not diagnosed until later in childhood or during adulthood.
+-**Heart Defects**:The defects appear while birth. Less serious congenital heart defects are often not diagnosed until later in childhood or during adulthood.
        
-       -**Dilated Cardiomyopathy**:The symptoms  caused  by  weak  heart  musclecomes under this category.In early stages of cardiomyopathy, you may have no symptoms. As the condition worsens, symptomsstartappearing.
+-**Dilated Cardiomyopathy**:The symptoms  caused  by  weak  heart  musclecomes under this category.In early stages of cardiomyopathy, you may have no symptoms. As the condition worsens, symptomsstartappearing.
        
-       -**Heart Infection**:Endocarditis is an infection that affects the inner membrane that separates the chambers and valves of the heart (endocardium).
+-**Heart Infection**:Endocarditis is an infection that affects the inner membrane that separates the chambers and valves of the heart (endocardium).
 
 # Risk FactorsDeveloping Heart Disease
 
