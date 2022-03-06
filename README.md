@@ -44,5 +44,5 @@ There are several risk factors for developing heart disease which might include:
 
 # Prevention of Heart Disease
 
-![image](https://user-images.githubusercontent.com/76509789/156913960-dbdf2e1d-690c-437d-be16-5764419f34ff.png)
+![image](https://user-images.githubusercontent.com/76509789/156914030-45ed0065-4c64-42d9-b939-47ca2fb76b04.png)
 
