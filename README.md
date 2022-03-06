@@ -23,20 +23,20 @@ Heart Disease SymptomsHeart disease symptoms depend on what type of heart diseas
 
 There are several risk factors for developing heart disease which might include:
 
-      -**Age& Sex**:Aging increases your risk of damaged and narrowed arteries and weakened or thickened heart muscle.Men are generally at greater risk of heart disease. However, women's risk increases after menopause.
+-**Age& Sex**:Aging increases your risk of damaged and narrowed arteries and weakened or thickened heart muscle.Men are generally at greater risk of heart disease. However, women's risk increases after menopause.
       
-      -**Family  history**:A  family  history  of  heart  disease  increases  your  risk  of coronary artery disease, especially if a parent developed it at an early age.
+-**Family  history**:A  family  history  of  heart  disease  increases  your  risk  of coronary artery disease, especially if a parent developed it at an early age.
       
-      -**Smoking**:Nicotine  constricts  your  blood  vessels,  and  carbon  monoxide  can damage  their  inner  lining,  making  them  more  susceptible  to  atherosclerosis. Heart attacks are more common in smokers than in non-smokers.
+-**Smoking**:Nicotine  constricts  your  blood  vessels,  and  carbon  monoxide  can damage  their  inner  lining,  making  them  more  susceptible  to  atherosclerosis. Heart attacks are more common in smokers than in non-smokers.
       
-      -**Poor diet& Poor Hygiene**:A diet that's high in fat, salt, sugar and cholesterol can contribute to the development of heart disease.Not regularly washing your hands and not establishing other habits that can help prevent viral or bacterial infections can put you at risk of heart infections
+-**Poor diet& Poor Hygiene**:A diet that's high in fat, salt, sugar and cholesterol can contribute to the development of heart disease.Not regularly washing your hands and not establishing other habits that can help prevent viral or bacterial infections can put you at risk of heart infections
       
-      -**High   blood   pressure**:Uncontrolled   high blood   pressure   can   result   in hardening and thickening of your arteries, narrowing the vessels through which blood  flows.
+-**High   blood   pressure**:Uncontrolled   high blood   pressure   can   result   in hardening and thickening of your arteries, narrowing the vessels through which blood  flows.
       
-      -**High blood  cholesterol  levels**:High  levels of  cholesterol  in  your  blood  can increase the risk of formation of plaques and atherosclerosis.
+-**High blood  cholesterol  levels**:High  levels of  cholesterol  in  your  blood  can increase the risk of formation of plaques and atherosclerosis.
       
-      -**Diabetes**:Diabetes increases your risk of heart disease. Both conditions share similar risk factors, such as obesity and high blood pressure.
+-**Diabetes**:Diabetes increases your risk of heart disease. Both conditions share similar risk factors, such as obesity and high blood pressure.
       
-      -**Obesity**:Excess weight typically worsens other risk factors.•Physical  inactivity:Lack  of  exercise  also  is  associated  with  many  forms  of heart disease and some of its other risk factors, as well.
+-**Obesity**:Excess weight typically worsens other risk factors.•Physical  inactivity:Lack  of  exercise  also  is  associated  with  many  forms  of heart disease and some of its other risk factors, as well.
       
-      -**Stress**:Unrelieved  stress  may  damage  your  arteries  and  worsen  other  risk factors for heart disease.
+-**Stress**:Unrelieved  stress  may  damage  your  arteries  and  worsen  other  risk factors for heart disease.
